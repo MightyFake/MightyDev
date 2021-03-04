@@ -1,2 +1,2 @@
 # MightyDev
-Le site sur PlayStore
+Développeur Android
