@@ -6,7 +6,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Argent Cadeau
 
-- Bulleted 
 Argent Cadeau - Gagner de l'argent Orange et MTN Mobile money!
 
 Avec ce petit jeu de clics, tu pourras gagner de l'argent Orange Money et MTN Mobile Money en ouvrant le cadeau! Mais quel cadeau? Celui qui est dans l'application, et qui ne s'ouvrira que quand tu auras atteint le nombre de clics nécessaire!
